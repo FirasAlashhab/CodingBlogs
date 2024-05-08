@@ -22901,7 +22901,7 @@ var E0 = (() => {
         if (
           (i & 1 &&
             (p(0, "nav", 1)(1, "div", 2)(2, "a", 3),
-            m(3, "Navbar"),
+            m(3, "CodingBlogs"),
             h(),
             p(4, "button", 4),
             ne(5, "span", 5),
